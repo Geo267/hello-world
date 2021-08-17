@@ -1,2 +1,2 @@
 # hello-world
-Hello World Repository
+My name is Sarah and I'm learning JavaScript.
